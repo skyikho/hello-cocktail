@@ -37,6 +37,6 @@ func handleTime(w http.ResponseWriter, r *http.Request) {
 }
 
 func handleVersion(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "<h1> Version 1.5 </h1>")
+	fmt.Fprintf(w, "<h1> Version 1.6 </h1>")
 	log.Println("Version API was called")
 }
