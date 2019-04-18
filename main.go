@@ -9,7 +9,7 @@ import (
 
 const htmlIndex = `
 <html><body>
-<h1> Hello Cocktail Cloud ! </h1>
+<h1> Hello Cocktail Cloud 2019! </h1>
 </body><html>
 `
 
